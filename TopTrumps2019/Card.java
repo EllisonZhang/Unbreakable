@@ -22,7 +22,7 @@ public class Card implements Comparable<Card> {
 
 	public void printCard() {
 		// Allows us to print in the console a card's attributes
-		attributes.forEach((k, v) -> System.out.println(k + ":" + v));
+		attributes.forEach((k, v) -> System.out.println("  > " + k + ":" + v));
 	}
 
 	public String getName() {

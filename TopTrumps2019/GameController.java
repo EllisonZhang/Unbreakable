@@ -20,18 +20,18 @@ public class GameController {
 
 	public void createCards() {
 		/* This method reads our file */
-		String fn = "Hearthstone.csv";
+		String fn = "Hearthstone.txt";
 		Scanner fileScanner = null;
 		try {
 			FileReader fileReader = new FileReader(fn);
 			fileScanner = new Scanner(fileReader);
 			String headerOutput = fileScanner.nextLine();
-			game.attributes = headerOutput.split(",");
+			game.attributes = headerOutput.split(" ");
 			// we set the attributes to the values found in the file
 			game.attributes = Arrays.copyOfRange(game.attributes, 1, 6);
 			while (fileScanner.hasNext()) {
-				String output = fileScanner.next();
-				String[] row = output.split(",");
+				String output = fileScanner.nextLine();
+				String[] row = output.split(" ");
 				// we get the name of each card
 				String name = row[0];
 				// this list is created to contain the attribute values for each card

@@ -25,6 +25,8 @@ public class GameModel {
 	Player choosingPlayer;
 	// Boolean enabling use to close a game
 	boolean gameOver = false;
+	// number of rounds
+	int round;
 
 	public void createPlayers() {
 		/*
@@ -47,6 +49,8 @@ public class GameModel {
 		 * At the beginning of each game we first create the players, then we shuffle
 		 * the cards and distribute them evenly.
 		 */
+		System.out.println("\n");
+		System.out.println("Game Start");
 		createPlayers();
 		shuffleCards();
 		distributeCards();
@@ -63,9 +67,11 @@ public class GameModel {
 		 * their top cards. (Only for the players that have remaining cards in their
 		 * deck).
 		 */
+
+		System.out.println("Round " + ++round);
+		System.out.println("Round " + round + ": Players have drawn their cards");
 		HashMap<Player, Card> board = new HashMap<Player, Card>();
 		String option;
-		Scanner s = new Scanner(System.in);
 		for (Player player : players) {
 			/*
 			 * Printing the human's card to be able to pick desired attribute when its
@@ -73,6 +79,9 @@ public class GameModel {
 			 */
 			if (!player.getDeck().isEmpty()) {
 				if (player.human) {
+					
+					System.out.println("There are " + (player.getDeck().size() - 1) + " cards in your deck");
+					System.out.println("You drew '" + player.getDeck().get(0).name + "':");
 					player.getDeck().get(0).printCard();
 					board.put(player, player.getDeck().remove(0));
 				} else {
@@ -86,14 +95,12 @@ public class GameModel {
 		if (board.values().size() == 1) {
 			board.forEach((k, v) -> System.out.println(k + " won. Game over"));
 			gameOver = true;
-			s.close();
 			return;
 		}
 		if (choosingPlayer.human) {
 			// If the choosing player is human we allow her/him to pick an attribute
-			System.out.println("Please select an attribute: ");
-			option = s.nextLine().toLowerCase();
-			option = option.substring(0, 1).toUpperCase() + option.substring(1);
+			int value = categoryScanner();
+			option = attributes[value];
 
 		} else {
 			/*
@@ -134,14 +141,18 @@ public class GameModel {
 
 		}
 		if (counter > 1) {
-			System.out.println("Tie");
+
 			communalPile.addAll(board.values());
+			System.out.println("Round " + round + ": This round was a Draw, common pile now has" + communalPile.size()
+					+ " cards.");
 		} else {
 			/*
 			 * If the round is not a tie, we change the winning player to the winner of the
 			 * round, if the communal pile is not empty we add it to the winner's deck, then
 			 * we add the cards from the board to the winner's deck
 			 */
+			System.out.println("The winning card was " + bestCard.name);
+			bestCard.printCard();
 			choosingPlayer = Collections.max(board.entrySet(), Map.Entry.comparingByValue()).getKey();
 			if (!communalPile.isEmpty()) {
 				choosingPlayer.getDeck().addAll(communalPile);
@@ -164,6 +175,19 @@ public class GameModel {
 			}
 
 		}
+
+	}
+
+	public int categoryScanner() {
+		// Each time the choosing player is a human we let him choose his category
+		// thanks to a scanner
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("It is your turn to select a category, the categories are: \r\n   1: Strength\r\n"
+				+ "   2: Intelligence\r\n" + "   3: Agility\r\n" + "   4: Mastery\r\n" + "   5: Stamina\r\n"
+				+ "Enter the number for your attribute:");
+		int value = scanner.nextInt();
+		// scanner.close();
+		return (value - 1);
 
 	}
 }
