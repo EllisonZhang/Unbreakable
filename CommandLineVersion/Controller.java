@@ -20,7 +20,16 @@ public class Controller {
 		assignData();
 		shuffleCards();
 		sendCards();
-		game.newRound();
+		
+		
+		
+		
+		while(!game.getendGame()) {
+			game.newRound();
+		}
+		
+		
+		
 	}
 
 // first read file and put the content of every line into "tuples" (ArrayList)

@@ -8,10 +8,14 @@ public class Game {
 	private int draws;
 	private int rounds;
 	private int choosingPlayer;
+	private boolean endGame=false;
 	
 	int numberOfPlayers;
 	ArrayList<Player> players;
 	
+	public int getChoosingPlayer() {
+		return choosingPlayer;
+	}
 
 	public Game() {
 		setNumberOfPlayers();
@@ -40,7 +44,7 @@ public class Game {
 		numberOfPlayers = 4;
 		players = new ArrayList<Player>();
 		for (int i = 0; i < numberOfPlayers; i++) {
-			players.add(new Player());
+			players.add(new Player("AI " + i));
 		}
 		players.get(0).setHuman();
 
@@ -70,10 +74,14 @@ public class Game {
 		
 		
 		for (int i=0;i<numberOfPlayers;i++) {
-			board.add(players.get(i).getCardDeck().remove(0)); //
+			
+			board.add(players.get(i).getCardDeck().get(0)); 
+			players.get(i).getCardDeck().remove(0); 
+			System.out.println("Number of cards of "+i+" are "+players.get(i).getCardDeck().size()+" "+players.size());
 		}
 		
-		if (players.get(0).getHuman()) {
+		
+		if (false/*players.get(0).getHuman()&& choosingPlayer==0*/) {
 			board.get(0).getAttributes();
 			
 			System.out.println("Please select an attribute: ");
@@ -84,18 +92,27 @@ public class Game {
 		
 		else{
 			option= board.get(choosingPlayer).chooseHighestAttribute();
-			board.get(choosingPlayer).getAttributes();
+			//board.get(choosingPlayer).getAttributes();
 		}
 		
-		System.out.println(option);
-		System.out.println(choosingPlayer);
-
+		System.out.println("The atribute of choise is "+option);
+		System.out.println("The choosing player is " + players.get(choosingPlayer).name);
+		System.out.println();
+		Comparison(option,board);
 		
 		
 	}
 	
 	
 	public void Comparison(int option, ArrayList<Card> board) {
+		
+		//To print the Cards in each board
+		
+		//for(int i=0;i<board.size();i++) {
+			//board.get(i).getAttributes();
+		//}
+		
+		
 		int tempWinner=0;
 		int maxValue=board.get(0).getAttributesValues()[option];
 		boolean draw=false;
@@ -109,42 +126,62 @@ public class Game {
 				draw=true;
 			}
 		}
+		
 		//getting the board cards inside the communal pile
 		//easy way and very understandable 
 		//not radical way to do it
 		
-		for(int i=0;i<board.size();i++) {
-			comunalPile.add(board.remove(i));
-		}
+	
+			comunalPile.addAll (board);
+		
+		System.out.println(comunalPile);
 		//If there is a not a draw then 
 		//we give the cards to the player
 		if (!draw) {
 		choosingPlayer=tempWinner;
-		for(int i=0;i<comunalPile.size();i++) {
-			players.get(choosingPlayer).getCardDeck().add(comunalPile.get(i));
-		}
+			players.get(choosingPlayer).addCards(comunalPile);
+			comunalPile = new ArrayList<Card>();
+		
 		
 		}
+		
+		
+		CheckPlayers();
 		//need to make a winner statement, loser statement
-		
+				System.out.println("The winner of the round is "+players.get(choosingPlayer).name);
 	}
 	
 	public void CheckPlayers() {
 		int loses=0;
-		for (int i=0;i<players.size();i++) {
-			players.get(i).checkAvailability();
-			if(!players.get(i).checkAvailability()) {
-				players.remove(i);
+		int j=0;
+		int i=numberOfPlayers;
+		while(i>0) {
+			
+			players.get(j).checkAvailability();
+			if(players.get(j).getCardDeck().size()==0) {
+				players.remove(j);
 				loses++;
-				if(i<choosingPlayer) {
+				if(j<choosingPlayer) {
 					choosingPlayer--;
 				}
-				
+				System.out.println(11111);
 			}
-			
+			else {
+				j++;
+			}
+			i--;
 		}
 		numberOfPlayers=numberOfPlayers-loses;
+		if (numberOfPlayers==1) {
+			//need to make a winner statement, loser statement
+			System.out.println("The winner of the game is "+players.get(choosingPlayer).name);
+			System.out.println("Number of cards of "+" are "+players.get(choosingPlayer).getCardDeck().size());
+			endGame=true;
+		}
 	}
 	
+	public boolean getendGame() {
+		return endGame;
+	}
 	
 }

@@ -7,12 +7,13 @@ public class Player {
     private boolean isActivePlayer;
     private boolean human;
     private ArrayList<Card> playerCardDeck=new ArrayList<Card>();
+    String name;
     
-    public Player () {
+    public Player (String name) {
     	isActivePlayer=true;
     	timesOfWin=0;
     	human=false;
-    	
+    	this.name = name;
     	
     }
     public boolean getHuman() {
@@ -41,9 +42,17 @@ public class Player {
     	return playerCardDeck;
     }
     
+    public void addCards(ArrayList<Card> c) {
+    	playerCardDeck.addAll(c);
+    }
+    
     public void setCard(Card card) {
     	playerCardDeck.add(card);
     
+    }
+    
+    public void getNumberOfCards() {
+    	System.out.println("The player has "+playerCardDeck.size()+" Cards");
     }
     
     public void printCards() {
@@ -52,6 +61,7 @@ public class Player {
     
     public void setHuman() {
     	human=true;
+    	name = "You";
     }
     
 }
