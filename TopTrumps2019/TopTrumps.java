@@ -4,16 +4,16 @@ public class TopTrumps {
 
 	public static void main(String[] args) {
 
-		GameModel model = new GameModel();
+		GameModel model = new GameModelTest();
 		GameController controller = null;
 		
 		
-		if (args[0].equalsIgnoreCase("-c")) {
+//		if (args[0].equalsIgnoreCase("-c")) {
 			int value = cliIntroduction();
 			if (value == 2) {
 				controller = new GameController(model);
 			}
-		};
+//		};
 			
 
 	}

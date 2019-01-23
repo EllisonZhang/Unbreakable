@@ -1,0 +1,849 @@
+
+----------------------------------------------------------------
+Initial deck content: 
+Sylvanas Jaina Arthas Illidan Thrall Gul'dan Tyrande Sargeras Medivh Vol'jin GarroshHellscream GromHellscream Khadgar VarianWrynn TheLichKing MalfurionStormrage Kael'thas MaievShaowsong TitionFording Kil'jaeden MagniBronzebeard Archimonde Cenarius Velen Rexxar BaineBloodhoof CairneBloodhoof ChenStormstout Overlord Zealot JimRaynor D.Va Diablo Battlecruiser Ultralist Zergling Carrier Hogg ManaWyrm MountainGiant 
+----------------------------------------------------------------
+Shuffled deck content: 
+Sylvanas ChenStormstout MalfurionStormrage TheLichKing MagniBronzebeard Vol'jin Kael'thas Rexxar Diablo Overlord Zealot BaineBloodhoof GarroshHellscream Khadgar VarianWrynn Kil'jaeden Hogg D.Va Arthas MountainGiant Jaina JimRaynor ManaWyrm Ultralist Carrier MaievShaowsong Thrall Medivh Cenarius CairneBloodhoof Velen Tyrande TitionFording Battlecruiser GromHellscream Illidan Archimonde Sargeras Gul'dan Zergling 
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 8, 49, 23, 
+----------------------------------------------------------------
+Human player deck content: MagniBronzebeard Diablo GarroshHellscream Hogg Jaina Carrier Cenarius TitionFording Archimonde 
+Player AI 1 deck content: Vol'jin Overlord Khadgar D.Va JimRaynor MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing 
+Player AI 2 deck content: Kael'thas Zealot VarianWrynn Arthas ManaWyrm Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: Rexxar BaineBloodhoof Kil'jaeden MountainGiant Ultralist Medivh Tyrande Illidan Zergling 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :37, 34, 20, 43, 
+----------------------------------------------------------------
+Human player deck content: Diablo GarroshHellscream Hogg Jaina Carrier Cenarius TitionFording Archimonde 
+Player AI 1 deck content: Overlord Khadgar D.Va JimRaynor MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing 
+Player AI 2 deck content: Zealot VarianWrynn Arthas ManaWyrm Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: BaineBloodhoof Kil'jaeden MountainGiant Ultralist Medivh Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :41, 32, 14, 50, 
+----------------------------------------------------------------
+Human player deck content: GarroshHellscream Hogg Jaina Carrier Cenarius TitionFording Archimonde 
+Player AI 1 deck content: Khadgar D.Va JimRaynor MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing 
+Player AI 2 deck content: VarianWrynn Arthas ManaWyrm Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: Kil'jaeden MountainGiant Ultralist Medivh Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :26, 21, 47, 30, 
+----------------------------------------------------------------
+Human player deck content: Hogg Jaina Carrier Cenarius TitionFording Archimonde 
+Player AI 1 deck content: D.Va JimRaynor MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Arthas ManaWyrm Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: MountainGiant Ultralist Medivh Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :15, 46, 44, 24, 
+----------------------------------------------------------------
+Human player deck content: Jaina Carrier Cenarius TitionFording Archimonde Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: JimRaynor MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: ManaWyrm Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: Ultralist Medivh Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :12, 12, 37, 39, 
+----------------------------------------------------------------
+Human player deck content: Carrier Cenarius TitionFording Archimonde Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: MaievShaowsong CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Thrall Velen GromHellscream Gul'dan 
+Player AI 3 deck content: Medivh Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :20, 27, 39, 49, 
+----------------------------------------------------------------
+Human player deck content: Cenarius TitionFording Archimonde Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: CairneBloodhoof Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Velen GromHellscream Gul'dan 
+Player AI 3 deck content: Tyrande Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :16, 3, 49, 49, 
+Communal Pile Content: 
+Velen, Cenarius, CairneBloodhoof, Tyrande, 
+----------------------------------------------------------------
+Human player deck content: TitionFording Archimonde Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: Battlecruiser Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: GromHellscream Gul'dan 
+Player AI 3 deck content: Illidan Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :49, 45, 32, 34, 
+----------------------------------------------------------------
+Human player deck content: Archimonde Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: Sargeras MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Gul'dan Velen Cenarius CairneBloodhoof Tyrande GromHellscream TitionFording Battlecruiser Illidan 
+Player AI 3 deck content: Zergling Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :26, 8, 34, 50, 
+----------------------------------------------------------------
+Human player deck content: Arthas Hogg D.Va MountainGiant 
+Player AI 1 deck content: MalfurionStormrage Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Velen Cenarius CairneBloodhoof Tyrande GromHellscream TitionFording Battlecruiser Illidan 
+Player AI 3 deck content: Kael'thas MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :1, 2, 17, 48, 
+----------------------------------------------------------------
+Human player deck content: Hogg D.Va MountainGiant 
+Player AI 1 deck content: Sylvanas ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Cenarius CairneBloodhoof Tyrande GromHellscream TitionFording Battlecruiser Illidan 
+Player AI 3 deck content: MagniBronzebeard Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :10, 14, 9, 49, 
+----------------------------------------------------------------
+Human player deck content: D.Va MountainGiant 
+Player AI 1 deck content: ChenStormstout TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: CairneBloodhoof Tyrande GromHellscream TitionFording Battlecruiser Illidan 
+Player AI 3 deck content: Vol'jin Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :32, 7, 18, 20, 
+----------------------------------------------------------------
+Human player deck content: MountainGiant 
+Player AI 1 deck content: TheLichKing VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: Tyrande GromHellscream TitionFording Battlecruiser Illidan CairneBloodhoof D.Va ChenStormstout Vol'jin 
+Player AI 3 deck content: Rexxar Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :49, 5, 23, 13, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: VarianWrynn GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: GromHellscream TitionFording Battlecruiser Illidan CairneBloodhoof D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar 
+Player AI 3 deck content: Zealot Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :49, 26, 33, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: GarroshHellscream Khadgar Kil'jaeden 
+Player AI 2 deck content: TitionFording Battlecruiser Illidan CairneBloodhoof D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot 
+Player AI 3 deck content: Diablo Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 42, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: Khadgar Kil'jaeden 
+Player AI 2 deck content: Battlecruiser Illidan CairneBloodhoof D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo 
+Player AI 3 deck content: Overlord BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 24, 1, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: Kil'jaeden 
+Player AI 2 deck content: Illidan CairneBloodhoof D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord 
+Player AI 3 deck content: BaineBloodhoof ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :34, 30, 43, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: CairneBloodhoof D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord 
+Player AI 3 deck content: ManaWyrm Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :33, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: D.Va ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord 
+Player AI 3 deck content: Jaina JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :44, 35, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: ChenStormstout Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina 
+Player AI 3 deck content: JimRaynor Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :49, 10, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Vol'jin Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: Ultralist Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :20, 48, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Tyrande MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: Thrall Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :40, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: MountainGiant TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: Carrier MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :24, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: TheLichKing Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: MaievShaowsong Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :23, 39, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Rexxar GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: Medivh Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :13, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GromHellscream VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor 
+Player AI 3 deck content: Gul'dan Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :39, 26, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: VarianWrynn Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan 
+Player AI 3 deck content: Archimonde Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :40, 20, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Zealot TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde 
+Player AI 3 deck content: Sargeras Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :46, 6, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: TitionFording GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras 
+Player AI 3 deck content: Zergling Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 39, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GarroshHellscream Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling 
+Player AI 3 deck content: Velen Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :42, 16, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Diablo Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Arthas MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :34, 37, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Battlecruiser Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: MalfurionStormrage Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 46, 
+Communal Pile Content: 
+Battlecruiser, MalfurionStormrage, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Khadgar Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Kael'thas Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :47, 48, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Overlord D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Cenarius Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :19, 45, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: D.Va Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Hogg Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :44, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Jaina ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Sylvanas MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :20, 37, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: ChenStormstout JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: MagniBronzebeard Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :28, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: JimRaynor GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen 
+Player AI 3 deck content: Illidan Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :44, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GromHellscream Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan 
+Player AI 3 deck content: Kil'jaeden BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :49, 30, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Gul'dan VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden 
+Player AI 3 deck content: BaineBloodhoof CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :26, 22, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: VarianWrynn Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof 
+Player AI 3 deck content: CairneBloodhoof ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :40, 32, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Archimonde Zealot Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof 
+Player AI 3 deck content: ManaWyrm Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :47, 18, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Zealot Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm 
+Player AI 3 deck content: Vol'jin Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :46, 2, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Sargeras TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin 
+Player AI 3 deck content: Ultralist Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :40, 6, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: TitionFording Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist 
+Player AI 3 deck content: Tyrande Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Zergling GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist 
+Player AI 3 deck content: Thrall MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :2, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GarroshHellscream Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist 
+Player AI 3 deck content: MountainGiant Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :26, 41, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Velen JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist 
+Player AI 3 deck content: Carrier TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :4, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: JimRaynor Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist 
+Player AI 3 deck content: TheLichKing MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :44, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Illidan GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing 
+Player AI 3 deck content: MaievShaowsong Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :34, 25, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GromHellscream Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong 
+Player AI 3 deck content: Rexxar Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :49, 31, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Kil'jaeden Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar 
+Player AI 3 deck content: Medivh Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :30, 22, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Gul'dan BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh 
+Player AI 3 deck content: Diablo Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :26, 29, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: BaineBloodhoof VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh 
+Player AI 3 deck content: Arthas Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :43, 38, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: VarianWrynn CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas 
+Player AI 3 deck content: Battlecruiser MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :40, 16, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: CairneBloodhoof Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser 
+Player AI 3 deck content: MalfurionStormrage Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :49, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Archimonde ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Khadgar Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :47, 47, 
+Communal Pile Content: 
+Archimonde, Khadgar, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: ManaWyrm Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Kael'thas Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :34, 39, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Zealot Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Overlord Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :23, 37, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Vol'jin Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Cenarius D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :2, 45, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Sargeras Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: D.Va Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :34, 44, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Ultralist JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Hogg Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :14, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: JimRaynor TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Jaina Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :35, 35, 
+Communal Pile Content: 
+JimRaynor, Jaina, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: TheLichKing Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Sylvanas ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :16, 37, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Illidan MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: ChenStormstout MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :12, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: MaievShaowsong GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: MagniBronzebeard TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :25, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: GromHellscream Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: TitionFording Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :33, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Rexxar Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Tyrande Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :13, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Kil'jaeden Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Zergling Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :2, 50, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Medivh BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Thrall GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :2, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: BaineBloodhoof Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: GarroshHellscream MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :9, 42, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Arthas VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: MountainGiant Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Intelligence
+Values :16, 41, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: VarianWrynn Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Velen Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Agility
+Values :26, 27, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Battlecruiser CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Carrier Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :2, 49, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: CairneBloodhoof MalfurionStormrage 
+Player AI 3 deck content: Gul'dan Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :33, 26, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: MalfurionStormrage CairneBloodhoof Gul'dan 
+Player AI 3 deck content: Diablo Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :46, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: CairneBloodhoof Gul'dan MalfurionStormrage Diablo 
+Player AI 3 deck content: Archimonde Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Stamina
+Values :49, 32, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Gul'dan MalfurionStormrage Diablo CairneBloodhoof Archimonde 
+Player AI 3 deck content: Khadgar ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :26, 27, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: MalfurionStormrage Diablo CairneBloodhoof Archimonde 
+Player AI 3 deck content: ManaWyrm Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier Gul'dan Khadgar 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :5, 34, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Diablo CairneBloodhoof Archimonde 
+Player AI 3 deck content: Kael'thas Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier Gul'dan Khadgar MalfurionStormrage ManaWyrm 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :27, 48, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: CairneBloodhoof Archimonde 
+Player AI 3 deck content: Zealot Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier Gul'dan Khadgar MalfurionStormrage ManaWyrm Diablo Kael'thas 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Mastery
+Values :27, 46, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: Archimonde 
+Player AI 3 deck content: Overlord Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier Gul'dan Khadgar MalfurionStormrage ManaWyrm Diablo Kael'thas CairneBloodhoof Zealot 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Category selected: Strength
+Values :8, 37, 
+----------------------------------------------------------------
+Human player deck content: 
+Player AI 1 deck content: 
+Player AI 2 deck content: 
+Player AI 3 deck content: Vol'jin Cenarius Sargeras D.Va Ultralist Hogg JimRaynor Jaina TheLichKing Sylvanas Illidan ChenStormstout MaievShaowsong MagniBronzebeard GromHellscream TitionFording Rexxar Tyrande Kil'jaeden Zergling Medivh Thrall BaineBloodhoof GarroshHellscream Arthas MountainGiant VarianWrynn Velen Battlecruiser Carrier Gul'dan Khadgar MalfurionStormrage ManaWyrm Diablo Kael'thas CairneBloodhoof Zealot Archimonde Overlord 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+AI 3 won the game.
