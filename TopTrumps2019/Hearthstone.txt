@@ -17,7 +17,7 @@ TheLichKing 6 16 34 9 23
 MalfurionStormrage 5 2 1 17 46
 Kael'thas 39 37 41 48 45
 MaievShaowsong 6 3 25 13 39
-TitionFording 25 39 45 15 46
+TirionFording 25 39 45 15 46
 Kil'jaeden 2 22 30 18 27
 MagniBronzebeard 35 34 49 25 13
 Archimonde 8 20 47 24 32
