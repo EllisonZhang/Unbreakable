@@ -69,6 +69,7 @@ public class GameModel {
 		 */
 
 		System.out.println("Round " + ++round);
+		System.out.println("Current choosing player " + choosingPlayer.name);
 		System.out.println("Round " + round + ": Players have drawn their cards");
 		HashMap<Player, Card> board = new HashMap<Player, Card>();
 		String option;
@@ -111,6 +112,12 @@ public class GameModel {
 		}
 		choosingValue(option, board);
 		comparison(board);
+		int quit = quitGameScanner();
+		if (quit == 89 || quit == 121) {
+			
+		} else if (quit == 78 || quit == 110) {
+			System.exit(0);
+		}
 
 	}
 
@@ -143,7 +150,7 @@ public class GameModel {
 		if (counter > 1) {
 
 			communalPile.addAll(board.values());
-			System.out.println("Round " + round + ": This round was a Draw, common pile now has" + communalPile.size()
+			System.out.println("Round " + round + ": This round was a Draw, common pile now has " + communalPile.size()
 					+ " cards.");
 		} else {
 			/*
@@ -189,5 +196,13 @@ public class GameModel {
 		// scanner.close();
 		return (value - 1);
 
+	}
+	
+	public int quitGameScanner() {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Next Round ? (Y/N)");
+		String value = scanner.nextLine();
+		char character = value.charAt(0);
+		return (int) character;
 	}
 }
